@@ -1,5 +1,6 @@
-#Aplicación de Clima
-##Funcionalidades Principales:
+# Aplicación de Clima
+
+## Funcionalidades Principales:
 
 Buscar una ciudad para ver el clima: Esta función permite al usuario ingresar el nombre de una ciudad. A continuación, se presenta una lista de ciudades que coinciden con la entrada del usuario, obtenida de una base de datos o API. El usuario puede seleccionar una de estas ciudades para obtener información sobre el clima en esa ubicación.
 
